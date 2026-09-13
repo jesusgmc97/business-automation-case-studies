@@ -9,12 +9,17 @@ This repository documents real-world automation experience, focusing on the busi
 - [Corporate Device Governance and Usage Validation](corporate-device-governance/) - Scheduled device governance workflow using Microsoft Graph, Entra ID, human validation and Active Directory integration.
 - [AI-Assisted Complaint Intake and Classification](ai-complaint-triage-and-response/) - Email intake automation using prompt-engineered AI classification, case creation, SharePoint registration and automatic responses.
 
+- [Employee Onboarding and Offboarding Automation](employee-onboarding-and-offboarding/) - Production HR workflow using Power Apps, document generation, digital signature, email validation and Swagger-defined custom connectors to internal APIs.
+
 ## Areas covered
 
 The case studies include solutions involving:
 
 - Microsoft Power Automate
 - Microsoft Power Platform
+- Microsoft Power Apps
+- Custom connectors and Swagger API definitions
+- Word template population and PDF generation
 - SharePoint
 - Microsoft Forms
 - Microsoft Teams
