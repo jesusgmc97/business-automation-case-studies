@@ -8,8 +8,8 @@ This repository documents real-world automation experience, focusing on the busi
 
 - [Corporate Device Governance and Usage Validation](corporate-device-governance/) - Scheduled device governance workflow using Microsoft Graph, Entra ID, human validation and Active Directory integration.
 - [AI-Assisted Complaint Intake and Classification](ai-complaint-triage-and-response/) - Email intake automation using prompt-engineered AI classification, case creation, SharePoint registration and automatic responses.
-
 - [Employee Onboarding and Offboarding Automation](employee-onboarding-and-offboarding/) - Production HR workflow using Power Apps, document generation, digital signature, email validation and Swagger-defined custom connectors to internal APIs.
+- [Weekly Reporting and Data Transformation Automation](weekly-reporting-data-transformation/) - Weekly reporting pipeline that transforms poorly formatted CSV data into structured datasets, prepares reporting outputs, distributes reports by email and publishes final files internally.
 
 ## Areas covered
 
@@ -25,6 +25,8 @@ The case studies include solutions involving:
 - Microsoft Teams
 - Outlook
 - Microsoft 365
+- CSV processing and data transformation
+- Excel data preparation
 - REST API integrations
 - HTTP requests
 - Webhooks
@@ -91,6 +93,7 @@ Depending on the process, the implementation may include:
 - HTTP GET, POST, PUT and PATCH requests
 - REST API consumption
 - Webhook-based triggers
+- CSV parsing and structured data transformation
 - JSON request and response processing
 - Parse JSON actions
 - Variables and arrays
