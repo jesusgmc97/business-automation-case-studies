@@ -1,0 +1,6 @@
+report_date,area,item,amount,status
+2026-09-01,North,A-001,1250.50,Completed
+2026-09-01,South,A-002,875.00,Pending
+2026-09-01,North,A-003,0.00,Completed
+2026-09-01,East,A-004,2140.75,Pending
+2026-09-01,South,A-005,990.20,Completed
