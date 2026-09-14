@@ -1,0 +1,6 @@
+report_date;area;item;amount;status
+01/09/2026;North;A-001;1250,50; completed 
+01/09/2026;South;A-002;875,00;PENDING
+01/09/2026;North;A-003;;Completed
+01/09/2026;East;A-004;2140,75; pending 
+01/09/2026;South;A-005;990,20;COMPLETED
