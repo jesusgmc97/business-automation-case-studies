@@ -4,7 +4,7 @@ Web profesional en español para servicios freelance de automatización, formaci
 
 ## Experiencia
 
-- Identidad visual propia: blanco, verde oscuro, lima y tipografía editorial.
+- Identidad visual propia: azul noche, morados, detalles lavanda y tipografía editorial.
 - Portada con una simulación de un flujo de automatización, activada por el visitante y etiquetada como ilustrativa.
 - Tres servicios con llamadas a la acción que preseleccionan el interés en el formulario.
 - Tres casos documentados del portfolio público, manteniendo información anonimizada.
